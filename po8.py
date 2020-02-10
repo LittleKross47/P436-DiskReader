@@ -43,7 +43,7 @@ for thing in preformattedArray:
 print(header1)
 print(header2)
 for thing in ourDict:
-    print(ourDict[thing])
+    print(thing+":"+ourDict[thing])
 
 
 
