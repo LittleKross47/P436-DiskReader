@@ -1,0 +1,10 @@
+6 parts of process
+5 states of trainsition 
+	Explain all states  ()
+			()  () ()
+			    ()
+
+Compilation process
+
+Describe architecture -- Von Noymen
+
